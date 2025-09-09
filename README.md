@@ -1,4 +1,4 @@
-# flutter_application_1
+# ui/ux
 Analasisa kode 
 Kode ini adalah aplikasi Flutter sederhana dengan navigasi antar halaman.
 Terdapat dua halaman: HomePage dan ItemPage.
